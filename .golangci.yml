@@ -32,7 +32,7 @@ output:
   format: colored-line-number
   # Sort results by: filepath, line and column.
   sort-results: true
-  
+
 # All available settings of specific linters.
 linters-settings:
   depguard:
